@@ -1,4 +1,4 @@
-package com.andremgomes.stuctural.builder;
+package com.andremgomes.creational.builder;
 
 public class ConnectionInfo {
     private String url;

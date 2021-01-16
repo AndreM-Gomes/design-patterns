@@ -1,4 +1,4 @@
-package com.andremgomes.stuctural.singleton;
+package com.andremgomes.creational.singleton;
 
 public class Logger {
     private Logger(){}

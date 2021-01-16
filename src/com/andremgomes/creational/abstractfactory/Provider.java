@@ -1,4 +1,4 @@
-package com.andremgomes.stuctural.abstractfactory;
+package com.andremgomes.creational.abstractfactory;
 
 public class Provider extends User {
 
